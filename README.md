@@ -6,6 +6,7 @@ Learning in different topics
 - Types of Exception: Runtime & Compile time exception
 - Real time Examples & writing your custom exception by extending Exception & RuntimeException
 - When to use which exception
+- [Exception Hierarchy](https://raw.githubusercontent.com/rakib09/Code-Experiment/main/resources/exception_hierarchy.png)
 
 ### Collections
 - List vs array vs Vectors vs Collections
